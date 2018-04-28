@@ -1,0 +1,11 @@
+#timer{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: red;
+    font-size: 90pt;
+}
